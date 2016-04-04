@@ -207,7 +207,7 @@ position: relative;
 .menu-main a{
       display: inline-block;
       line-height: 34px;
-
+      color: inherit;
       padding-left:17px;
       padding-right: 16px;
       text-align: center;
